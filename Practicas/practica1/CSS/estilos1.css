@@ -1,0 +1,18 @@
+/* Un comentario en css */
+h1{
+	font-size: 40px;
+	color: red;
+}
+/* # es para el id en html*/
+#titulo {
+	
+	color: white;
+	text-shadow: -2px 9px 7px #000000;
+}
+/* . es para una clase  */
+.colorRojo{
+	color: red ;
+}
+.colorAmarillo{
+	color: yellow ;
+}
